@@ -1,0 +1,6 @@
+snscrape
+bs4
+pandas
+fake_useragent
+pyspark
+psutil
